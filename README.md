@@ -19,4 +19,4 @@ The code returns 5 output files:
 ## Sample Input and Output
 | Sample Input | Sample Output |
 |--------------|---------------|
-|![Img1](images/Img1.png)|![Img1-out](images/Img1-out.png)|
+|![Img1](https://github.com/rajadurai-s/Harris-Corner-Detection/blob/main/Images/Img1.png)|![Img2](https://github.com/rajadurai-s/Harris-Corner-Detection/blob/main/Images/Img1-out.png)|
