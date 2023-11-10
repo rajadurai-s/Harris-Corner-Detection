@@ -16,3 +16,7 @@ The code returns 5 output files:
 * t_array - An array of computation time for each pixel
 * pix - An integer variable with total number of pixels
 
+## Sample Input and Output
+| Sample Input | Sample Output |
+|--------------|---------------|
+|![Img1](images/Img1.png)|![Img1-out](images/Img1-out.png)|
